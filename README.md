@@ -7,6 +7,7 @@ Repositorio para el code del nuevo banner Echo Por El Mandarin Sniff Para Mis Am
 Primero Agrega Tus Ids En El Manifest Tambien en String ejemplo
 ```groovy
 <string name="admobexpandible">Echo Por LatamSRC</string>
+//Nota Debes cambiar el texto por un id real ejemplo "ca-app-pub-3940256099942544/2014213617"
 ```    
 ```groovy
  <meta-data
