@@ -5,11 +5,10 @@ Repositorio para el code del nuevo banner Echo Por El Mandarin Sniff Para Mis Am
 
 ##PRIMERO Y MAS IMPORTANTE
 Primero Agrega Tus Ids En El Manifest Tambien en String ejemplo
-//////////// para string////////////
-    <string name="admobexpandible">Echo Por LatamSRC</string>
-    //////////// para string////////////
-
-/////////// para manifest ////////////
+```groovy
+<string name="admobexpandible">Echo Por LatamSRC</string>
+```    
+```groovy
  <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
@@ -21,7 +20,7 @@ Primero Agrega Tus Ids En El Manifest Tambien en String ejemplo
         <meta-data
             android:name="com.google.android.gms.ads.AD_MANAGER_APP"
             android:value="true" />
- /////////// para manifest ////////////
+```
 ###PASO 1
 
 ####Instala el Gradle
