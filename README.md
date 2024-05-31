@@ -1,7 +1,7 @@
 # Expandible-banner-LatamSRC
 Repositorio para el code del nuevo banner Echo Por El Mandarin Sniff Para Mis Amigos de LatamSRC
 
-![Expandido](app/1.jpg)　　　　　　![Normal](app/2.jpg)
+![Expandido](app/1.jpg)　　　　　　![Normal](2.jpg)
 
 ##PRIMERO Y MAS IMPORTANTE
 Primero Agrega Tus Ids En El Manifest Tambien en String ejemplo
